@@ -1,2 +1,4 @@
 # HW 5 Writeup
 
+This week, we discussed a chapter from Walton's book on "Prop Oriented Make Believe." Walton supposes that engaging in metaphor or idiom is "playing a game of make-believe." This made me think of our earlier discussion of "what is a game?" Is this "game of make-believe" a game? My gut instinct is to say no. There are players, but no rules or goal. It is "seperate from normal life," which does the majority of the lifting for the claim to "gameness" but that's itself does not convince me. Make believe is a form of play, but also I don't think all forms of play are games. I think games need rules and goals. Sledding down a hill is play, but there aren't rules beyond the rules of the universe and existence like gravity. If you do something like go down the hill with no sled, you haven't "failed at sledding." Anyway I think I am of the opinion that "game" of make-believe is a bit of a misnomer, if analyzing from a ludologic viewpoint.
+
